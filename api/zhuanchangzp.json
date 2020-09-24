@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+
+    }, {
+      "id": 2,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 3,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 4,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 5,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 6,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 7,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 8,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张凤山",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 9,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张宝",
+      "time": "2019-7-10",
+      "location": "北京"
+    }, {
+      "id": 10,
+      "majorName": "北京科蓝有限公司",
+
+      "leader": "李四",
+      "schoolleader": "张宝",
+      "time": "2019-7-10",
+      "location": "北京"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+    "code": 0,
+    "msg": "",
+    "count": 10,
+    "data": [
+      {
+        "id": 1,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs": "java开发"
+      }, {
+        "id": 2,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 3,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 4,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 5,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 6,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 7,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 8,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 9,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }, {
+        "id": 10,
+        "majorName": "北京科蓝有限公司",
+        "cno": "北京",
+        "job": "计算机",
+        "leader": "张凤山",
+        "phone": "12345678901",
+        "hzzt": "合作中",
+        "jobs":"java开发"
+      }
+      ]
+}
